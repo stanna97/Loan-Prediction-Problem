@@ -1,7 +1,7 @@
 # Loan-Prediction-Problem
 
 
-BIA-610 was a Business Intelligence and Analytics lecture conducted by Professor Zachery Fienstein at Stevens Institute of Technology for Fall 2019.
+BIA-610 was a Business Intelligence and Analytics course conducted by Professor Zachery Fienstein at Stevens Institute of Technology for Fall 2019.
 
 Technologies used: Python
 
