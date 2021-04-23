@@ -9,6 +9,8 @@ Topics covered and learned: Correlation, Regression, Classification, Performance
 
 Grade Recieved: A
 
+Project Kepypoints:
+
 • Developed a solution to a classification problem by automating the loan approval decision making of a loan approval process by identifying dependent customer attributes
 
 • Performed multivariate analysis of the dataset, achieving 85% accuracy and 92% precision scores using Logistic Regression for computation
